@@ -88,6 +88,43 @@ Config = {
         { name = "bandage", desc = "bandage" }
     },
 
+    -- Work In Progress, do not uncomment!
+    -- GatheringLocations = { -- r is radius of area, n is number of 
+    --     ["WildCarrotValentine"] = {x, y, z, r, n},
+    --     ["WildCarrotValentine2"] = {x, y, z, r, n},
+    --     ["WildCarrotRhodes"] = {x, y, z, r, n},
+    --     ["WildCarrotRhodes2"] = {x, y, z, r, n},
+    --     ["WildCarrotBlackwater"] = {x, y, z, r, n},
+    --     ["WildCarrotBlackwater2"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    --     --["WildCarrotValentine"] = {x, y, z, r, n},
+    -- },
+
     -- Recepies to craft herbal medicines and tonics available ONLY for herbalists
     Recepies = {
         {

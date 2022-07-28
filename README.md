@@ -6,6 +6,8 @@ VORP Medics and Herbalists script in Lua
 
 * VORP-Core: version 1.4 or higher
 * VORP-Inventory version 1.0.7 or higher
+* VORP-Crafting
+* MenuAPI
 
 This script may **not** work properly with VORP-Metabolism!
 
