@@ -29,6 +29,5 @@ shared_scripts {
 dependencies {
     'vorp_core',
     'vorp_inventory',
-    'vorp_crafting',
-    'menuapi'
+    'vorp_crafting'
 }
